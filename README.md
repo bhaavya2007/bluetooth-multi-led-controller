@@ -60,4 +60,4 @@ The Arduino processes these commands and controls the LEDs using PWM to adjust t
 
 ## Demo
 
-[Watch the project demonstration](bluetooth_3led_control.mp4)
+[Watch the project demonstration](bluetooth_3led_control(1).mp4)
