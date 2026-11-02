@@ -57,3 +57,7 @@ The Arduino processes these commands and controls the LEDs using PWM to adjust t
 - GPIO Control
 - Command Handling
 - State Management
+
+## Demo
+
+[Watch the project demonstration](bluetooth_3led_control.mp4)
